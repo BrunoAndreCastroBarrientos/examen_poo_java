@@ -1,10 +1,10 @@
-package com.ef.poo.demo.entity;
+package com.senasa.bpm.ng.entity;
 
-import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import javax.persistence.*;
 import java.util.Date;
 
 @Data

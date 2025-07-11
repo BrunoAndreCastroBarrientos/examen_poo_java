@@ -1,7 +1,9 @@
-package com.ef.poo.demo.controller;
+package com.senasa.bpm.ng.controller;
 
-import com.ef.poo.demo.entity.OfertaLaboral;
-import com.ef.poo.demo.repository.OfertaLaboralRepository;
+
+
+import com.senasa.bpm.ng.entity.OfertaLaboral;
+import com.senasa.bpm.ng.repository.OfertaLaboralRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

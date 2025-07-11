@@ -1,6 +1,6 @@
-package com.ef.poo.demo.entity;
+package com.senasa.bpm.ng.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

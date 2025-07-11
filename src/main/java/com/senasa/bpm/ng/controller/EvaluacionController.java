@@ -1,6 +1,8 @@
-package com.ef.poo.demo.controller;
-import com.ef.poo.demo.entity.Evaluacion;
-import com.ef.poo.demo.repository.EvaluacionRepository;
+package com.senasa.bpm.ng.controller;
+
+
+import com.senasa.bpm.ng.entity.Evaluacion;
+import com.senasa.bpm.ng.repository.EvaluacionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
